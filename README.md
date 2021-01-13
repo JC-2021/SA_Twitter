@@ -1,2 +1,4 @@
 # SA_Twitter
-sentiment analysis on twitter data
+This project is about sentiment analysis on twitter dataset.
+
+With the development of social media, applications like Twitter and Facebook become an important part of our social life. Especially after Donald Trump was elected to be the president of the United State in 2016, Twitter is now a place to share people’s political opinions, not only to just share their daily life. Traditional election polls use an old fashioned way to collect data and always have deviations on their samples, which cause inaccurate predictions especially since 2016. Because of the Anonymity of Twitter, people might be more likely to express their real opinion on social media and the convenience of tweets also give everyone an equal chance to speak, so it is very interesting for us to know if tweets about the election can be used to predict the result. In this project, we will explore different models for tweet sentiment analysis, this model should identify a given tweet is positive or negative (in some cases, neutral tweets are included).
